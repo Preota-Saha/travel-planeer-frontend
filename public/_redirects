@@ -1,0 +1,14 @@
+# SPA routing
+/*    /index.html    200
+
+# Force correct MIME types
+*.js   application/javascript
+*.mjs  application/javascript
+*.jsx  application/javascript
+*.wasm application/wasm
+
+# Handle asset files
+*.css  text/css
+*.png  image/png
+*.jpg  image/jpeg
+*.svg  image/svg+xml
