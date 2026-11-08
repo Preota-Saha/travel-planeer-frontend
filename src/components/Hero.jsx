@@ -51,7 +51,7 @@ function Hero() {
               Explore
             </h3>
 
-            {/* "Bangladesh" - Strong white with refined shadow */}
+            {/* "Bangladessh" - Strong white with refined shadow */}
             <h1 className="text-white leading-[0.8] font-primary text-[56px] sm:text-[72px] md:text-[85px] lg:text-[100px] xl:text-[120px] 2xl:text-[140px] drop-shadow-[0_4px_25px_rgba(0,0,0,0.4)] tracking-tight">
               Bangladesh
             </h1>
